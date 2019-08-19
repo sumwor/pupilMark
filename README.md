@@ -21,7 +21,14 @@
     
     c) if you have to go in the middle, just close the window. The script will be able to start at the break point the next time 
        you run it
-       
+ 
+ ### checkFig.py
+ 1. This script is to help with the parameters setting in 1a.
+ 
+ 2. *filePath*: change this to **a .mat file** from the validation dataset
+ 
+ 3. change the values of the three parameters, run the script to examine the results
+ 
  ### script to analyze the result and compare with the DeepLabCut results
  
  1. coming soon
