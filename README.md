@@ -15,7 +15,7 @@
 
 2. start marking. 
   
-    a) There are five points in total. You should click in the exact order: **UP, DOWON, LEFT, RIGHT, CENTER**
+    a) There are five points in total. You should click in the exact order: **UP, DOWN, LEFT, RIGHT, CENTER**
     
     b) Next frame will pop up automatically when you are done with the previous one
     
